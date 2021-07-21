@@ -1,4 +1,4 @@
-# Demo
+# House Price Prediction
 Attribute Information:
 
 1. Wife's age (numerical)
@@ -12,40 +12,20 @@ Attribute Information:
 9. Media exposure (binary) 0=Good, 1=Not good
 10. Contraceptive method used (class attribute) 1=No-use, 2=Long-term, 3=Short-term
 
-Abstract: Dataset is a subset of the 1987 National Indonesia Contraceptive Prevalence Survey.
+* Abstract: Dataset is a subset of the 1987 National Indonesia Contraceptive Prevalence Survey.
 
-Data Set Characteristics:  
+# Data Set Characteristics:  
+_________________________
 
-Multivariate
-
-Number of Instances:
-
-1473
-
-Area:
-
-Life
-
-Attribute Characteristics:
-
-Categorical, Integer
-
-Number of Attributes:
-
-9
-
-Date Donated
-
-1997-07-07
-
-Associated Tasks:
-
-Classification
-
-Missing Values?
-
-No
-
-Number of Web Hits:
-
-175460
+1. Multivariate<br>
+2. Number of Instances: 1473<br>
+3. Area:<br>
+4. Life<br>
+5. Attribute Characteristics:<br>
+6. Categorical, Integer<br>
+7. Number of Attributes: 9<br>
+8. Date Donated: 1997-07-07<br>
+9. Associated Tasks:<br>
+10. Classification<br>
+11. Missing Values?: No<br>
+12. Number of Web Hits: 175460<br>
